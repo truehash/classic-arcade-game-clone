@@ -1,7 +1,6 @@
-Frogger a Classic arcade game
-[live link](https://truehash.github.io/classic-arcade-game-clone/)
+Frogger is a Classic arcade game
 
-To practice Object-Oriented JavaScript this game is built as part of a course in the Udacity Front-end Nanodegree program.
+His game is built as practice for Object-Oriented JavaScript course in the Udacity Front-end Nanodegree program.
 
 *** HOW TO RUN ***
 
