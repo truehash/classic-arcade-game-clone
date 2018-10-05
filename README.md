@@ -1,6 +1,6 @@
 Frogger is a Classic arcade game
 
-His game is built as practice for Object-Oriented JavaScript course in the Udacity Front-end Nanodegree program.
+This game is built as practice for Object-Oriented JavaScript course in the Udacity Front-end Nanodegree program.
 
 *** HOW TO RUN ***
 
